@@ -14,7 +14,7 @@ Un algoritmo es un conjunto finito de instrucciones bien definidas y no ambiguas
 
 Una estructura de datos es una forma particular de organizar y almacenar datos en una computadora para que puedan ser accedidos y modificados de manera eficiente. Existen diferentes tipos de estructuras de datos, y se eligen según la naturaleza del problema y la operación a realizar.
 
-**Tipos comunes:**
+**[Tipos comunes:](./estructurasDeDatos.md)**
 
 - Arreglos
 - Listas Enlazadas
