@@ -30,6 +30,6 @@ La complejidad se refiere a la cantidad de recursos (tiempo y/o espacio) que un 
 - **Complejidad Temporal:** Se refiere al tiempo que un algoritmo tarda en completar en función del tamaño de la entrada.
 - **Complejidad Espacial:** Se refiere a la cantidad de memoria que un algoritmo utiliza en función del tamaño de la entrada.
 
-**[Notación Big O]**(./bigONotation.md) Es una notación matemática que describe el límite superior de la complejidad temporal o espacial en el peor de los casos.
+**[Notación Big O](./bigONotation.md) Es una notación matemática que describe el límite superior de la complejidad temporal o espacial en el peor de los casos.**
 
 ---

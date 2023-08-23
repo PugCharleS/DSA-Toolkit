@@ -2,7 +2,7 @@
 
 ## Fundamentos
 
-1. **[Conceptos Básicos]**(./temas/fundamentos/conceptos-basicos/conceptosBasicos.md)
+1. **[Conceptos Básicos](./temas/fundamentos/conceptos-basicos/conceptosBasicos.md)**
 
    - Algoritmo
    - Estructura de Datos
